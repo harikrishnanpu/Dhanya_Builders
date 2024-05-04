@@ -10,7 +10,9 @@ let charIndex = 0;
 
 
 window.onload = ()=>{
-     document.getElementById("loading").style.display = "none";
+  setTimeout(()=>{
+    document.getElementById("loading").style.display = "none";
+  },1000)
 }
 
 function type() {
