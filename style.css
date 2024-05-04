@@ -1514,7 +1514,7 @@
   }
   
   .hero-section {
-    background-image: linear-gradient(360deg, #222, rgba(34, 34, 34, 0)), url('/images/hero-main.jpeg');
+    background-image: linear-gradient(360deg, #222, rgba(34, 34, 34, 0)), url('./images/hero-main.jpeg');
     background-position: 0 0, 50%;
     background-size: auto, cover;
     height: 100vh;
